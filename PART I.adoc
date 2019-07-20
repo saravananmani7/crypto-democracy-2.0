@@ -1,0 +1,74 @@
+=== *Cryptocurrency and Democracy 2.0 - PART I*
+
+==== *What's the story about?*
+
+[quote, Henry Ford]
+If people understood how the economic system works, there'd be a revolution in a minute
+
+Cryptocurrency is a new generation money that has the potential to upgrade the democracy itself. For laymen, it is hard to understand the value proposition and potentials of Cryptocurrency due to the complex nature of the problems it solves. If those are conveyed in layman terms, we believe socially conscious people and those from any investment background, may consider participating in the Cryptocurrency revolution in the current stage itself.
+
+_Note: Here we try our best to avoid technical terms of Cryptocurrency and Economics to make it easy to understand for laymen._
+
+_We believe in systemic reforms for the betterment of humanity. Hence our intention is not criticizing individuals here, but the flaws of different institutions in the world._
+
+==== *Setting the stage with some history*
+
+Humanity has always been exploring and contemplating different economic, political and financial systems. This passionate, never-ending exploration seeks to crack a system that best suits humanity, our growing complexity, needs and challenges. Democracy was established as part of this evolution, but in the 20th century, two bloodsucking loopholes were created in democracy by few powerful entities for their own benefit. These loopholes are the central bank and fiat money, and their predatory monetary control and inflation effect humanity on a global scale.
+
+However, the dynamics of money itself isn't an easy concept to understand. And with the fiat money system, there still is huge ignorance around possible exploitation of people's money by the government, bankers, and the top quartile of wealthy people. As mentioned earlier in Henry Ford's quote, the sheer complexity of this ecosystem prevents common people from understanding it completely.
+
+Only a few have understood its implications, the dangers it poses to common people, warned about it, and then demanded for return to a market based sound money - gold standard. Few feeble sirens were raised against this system that generates wealth mostly for *_fiat beneficiaries_* (government, bankers, financial industry and top quartile wealthy people). However, fiat money soon got enforced in society, became the common norm, and it has been advocated by many so-called mainstream economists who are also beneficiaries of the fiat system themselves.
+
+There may be few economies that have made progress through the fiat money system driven by strong and good government, but this is unfortunately very rare. The world didn't stop communities that were strongly advocating to bring back market based sound money. Their passion, perseverance and dream led to Bitcoin being born in 2009 as a Cryptocurrency.
+
+Cryptocurrency has the potential not only to eradicate the loopholes in democracy, but also to transform it by offering much needed and more powerful controls to people over economics and politics. In the initial phases, Cryptocurrency majorly attracted geeks, cyberpunks and people & social activists who were against systems build on the fiat. And its potential was noted by many, more specifically by people who became victims of failure of fiat money in some countries. Eventually, Cryptocurrency gained traction leading to more money flowing into it through bull markets.
+
+Most of the stakeholders do not see the larger purpose, and are in it only for the short term monetary returns. But some people see the potential of Cryptocurrency and its business opportunities, so tools and infrastructure have been built around crypto. And that's been the beauty of Cryptocurrency that people become a part of it for different reasons.
+
+==== *Proposal*
+
+We believe there are two different sets of people in the world who may participate and drive the Cryptocurrency adoption even in bear markets as *_potential stakeholders_*, if they are conveyed the promises and potential of Cryptocurrency in layman terms.
+
+*I. People who are passionate about social changes in the world and they can be classified into two subsets.*
+
+● _Social network advocates - the ones who advocate for change_
+
+The way we as humanity express our concerns around social issues looks drastically different in the pre and post social network boom. A huge set of people who would initially not be comfortable expressing their concerns started doing it more freely through social network. Even if we assume 1 in every 50 in this world are passionate advocates of social issues through social networks & other means, we would have around 144 million people in this category.
+
+● _Activists & volunteers - the ones who are leading the change_
+
+This world is full of millions of activists and volunteers. They come out, get down and fight numerous social issues on the ground. Even if we assume around 5% of the social network advocates are activists & volunteers, we will have around 7.2 million people.
+
+*II. Fulltime and part-time investors.*
+
+There are millions of investors in the world who invests in different investment assets like equities, bonds, commodities, etc. Few of them may be already investing in Cryptocurrency to trade or to just try it out.
+
+==== *The challenge*
+
+Our *_potential stakeholders_* might have very minimal understanding of the potentials and benefits of a market based money like gold. Further adding on this ignorance is the biased and very limited information about these in our educational curriculum which was influenced by *fiat beneficiaries*.
+
+On top of that, the idea of Cryptocurrency is even harder for an average common man to grasp. The actual key message the Cryptocurrency community is attempting to convey is a new market based sound digital money with *_key features_*.
+
+In contrast, most of the time our potential stakeholders actually hear about Cryptocurrency from news and social media as concepts around risky ponzi scheme, an internet tool used by criminals and terrorists, or as a short term trading asset. Else, they hear too good to be true promises for the society without getting how it can be achieved through Cryptocurrency. In doing so, they mostly hear technical terms of computer technologies, finance and economics that they may not fully comprehend.
+
+However, the current communication by the Cryptocurrency community can be further aligned and be made more relatable to our potential stakeholders as further discussed in the article.
+
+==== *The way ahead*
+
+Our potential stakeholders already have an emotional connection with social change or professional investor mindset. This is especially so among the younger generation who are born and attached in the digital world. The following steps can be taken to tilt their focus towards cryptocurrency:
+
+[arabic]
+. The systematic political & economical flaws in our current fiat systems and its present & future consequences can be conveyed in an easy-to-understand manner that they can emotionally connect with. This can be further connected to how Cryptocurrency is the most promising solution so far to these problems. Insights around how Cryptocurrency can be a much better system to move into in a peaceful manner can be added, and finally they could be briefed on Cryptocurrency's track record in terms of its promises and performance.
+
+[arabic, start=2]
+. The potential stakeholders can be explained how their long term investment in Cryptocurrency would help drive a faster adoption. Cryptocurrency's track record as a long term investment asset could be explained in a way that would make them to consider investing in Cryptocurrency at least once and store it in a private wallet. But they should be warned about the risk factors, so they would invest with the money they can afford to lose.
+
+Why should we think of long term investment? Because, it is one of the easiest ways to support the Cryptocurrency revolution, & also promises long-term monetary benefits to our potential stakeholders. It is a very easy to do, a-few-clicks task for most investors with the current advancements in Cryptocurrency tools, infrastructure and services. And through the journey, people may drop with time or may get more involved with increased understanding and interest.
+
+The big question is how they can be convinced that Cryptocurrency will become global money and will eliminate many social problems while also rewarding them monetarily. Let us try to provide an introduction to Cryptocurrency in coming sections.
+
+_Note: While some aspects of the below mentioned points about Cryptocurrency are already in place, some are only in progress._
+
+_Facts projected here are focusing on the USA as an example country, since it is the biggest economy in the world right now. Most other countries' stories may also follow a similar pattern. If you find this article useful, we encourage you to create similar article focusing on different countries, so the content will be more effective to the readers of that country._
+
+_Bitcoin (BTC) is focused as the Cryptocurrency as it is the first and most popular Cryptocurrency built with good monetary properties._
