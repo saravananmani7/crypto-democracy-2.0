@@ -16,9 +16,9 @@ To read this complete draft, see [PDF Format](https://www.dropbox.com/s/fuu8y5dg
 
 ## Parts
 
-Part I: [What’s the story about?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20I.adoc)
-Part II: [Scratching some basics first](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20II.adoc)
-Part III: [People, Money, Financial System, Economics & Government](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20III.adoc)
-Part IV: [Why is all the fuss around the financial industry?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20IV.adoc)
-part V: [What are the consequences of these power centralized Fed, banks and fiat?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20V.adoc)
-Part VI: [What solution Cryptocurrency offers to the world?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20VI.adoc)
+ * Part I: [What’s the story about?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20I.adoc)
+ * Part II: [Scratching some basics first](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20II.adoc)
+ * Part III: [People, Money, Financial System, Economics & Government](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20III.adoc)
+ * Part IV: [Why is all the fuss around the financial industry?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20IV.adoc)
+ * part V: [What are the consequences of these power centralized Fed, banks and fiat?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20V.adoc)
+ * Part VI: [What solution Cryptocurrency offers to the world?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20VI.adoc)
