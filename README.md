@@ -1,8 +1,8 @@
-## Cryptocurrency and Democracy 2.0 (Draft)
+## Cryptocurrency and Democracy 2.0
 
 Cryptocurrency is a new generation money that has the potential to upgrade the democracy itself. For laymen, it is hard to understand the value proposition and potentials of Cryptocurrency due to the complex nature of the problems it solves. If those are conveyed in layman terms, we believe socially conscious people and those from any investment background, may consider participating in the Cryptocurrency revolution in the current stage itself.
 
-Cryptocurrency and Democracy 2.0 (Draft) is created with an intention to develop the above message as a layman friendly article series, so anyone can read and spread easily. This draft version might need to be corrected and improved before becoming an article series. People are welcome to contribute to make it happen.
+Cryptocurrency and Democracy 2.0 is created with an intention to develop the above message in layman language, so anyone can read and spread it easily. But this version is exhaustive and might need corrections and improvements. Once this is in good shape, people can use it to create various formats of the message for end users. You are welcome to contribute to make it happen.
 
 ## Issues, Errors, Comments, Contributions
 
