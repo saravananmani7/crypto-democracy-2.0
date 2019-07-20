@@ -12,7 +12,9 @@ If you would like to contribute extensive changes or new material, please mail t
 
 ## Reading the complete draft
 
-To read this complete draft, see "Cryptocurrency and Democracy 2.0.adoc". Click on each of the chapters to read in your browser.
+To read this complete draft, see
+ * [PDF Format](https://www.dropbox.com/s/fuu8y5dgk8t95c7/Cryptocurrency%20and%20Democracy%202.0%20v0.0.1.pdf?dl=0)
+ * [Word Document (.docx)](https://www.dropbox.com/s/ksmnepq529iyb8k/Cryptocurrency%20and%20Democracy%202.0%20v0.0.1.docx?dl=0)
 
 ## Parts
 
