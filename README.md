@@ -8,19 +8,17 @@ Cryptocurrency and Democracy 2.0 (Draft) is created with an intention to develop
 
 If you know how to make a pull request to contribute a fix, please write the correction and use a pull request to submit it for consideration. If you are making several changes, please use a separate commit for each to make it easier to cherry-pick or resolve conflicts. Otherwise, please submit an issue, explaining the error or comment.
 
-If you would like to contribute extensive changes or new material, please mail to the author for support any saravananmani.out@gmail.com.
+You can also edit/comment your reviews comments in the [word document](https://www.dropbox.com/s/ksmnepq529iyb8k/Cryptocurrency%20and%20Democracy%202.0%20v0.0.1.docx?dl=0)  and email to the author.
 
 ## Reading the complete draft
 
-To read this complete draft, see
- * [PDF Format](https://www.dropbox.com/s/fuu8y5dgk8t95c7/Cryptocurrency%20and%20Democracy%202.0%20v0.0.1.pdf?dl=0)
- * [Word Document (.docx)](https://www.dropbox.com/s/ksmnepq529iyb8k/Cryptocurrency%20and%20Democracy%202.0%20v0.0.1.docx?dl=0)
+To read this complete draft, see [PDF Format](https://www.dropbox.com/s/fuu8y5dgk8t95c7/Cryptocurrency%20and%20Democracy%202.0%20v0.0.1.pdf?dl=0)
 
 ## Parts
 
-Part I: What’s the story about?
-Part II: Scratching some basics first
-Part III: People, Money, Financial System, Economics & Government
-Part IV: Why is all the fuss around the financial industry?
-part V: What are the consequences of these power centralized Fed, banks and fiat?
-Part VI: What solution Cryptocurrency offers to the world?
+Part I: [What’s the story about?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20I.adoc)
+Part II: [Scratching some basics first](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20II.adoc)
+Part III: [People, Money, Financial System, Economics & Government](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20III.adoc)
+Part IV: [Why is all the fuss around the financial industry?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20IV.adoc)
+part V: [What are the consequences of these power centralized Fed, banks and fiat?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20V.adoc)
+Part VI: [What solution Cryptocurrency offers to the world?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20VI.adoc)
