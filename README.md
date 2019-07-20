@@ -22,3 +22,7 @@ To read this complete draft, see [PDF Format](https://www.dropbox.com/s/fuu8y5dg
  * Part IV: [Why is all the fuss around the financial industry?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20IV.adoc)
  * part V: [What are the consequences of these power centralized Fed, banks and fiat?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20V.adoc)
  * Part VI: [What solution Cryptocurrency offers to the world?](https://github.com/saravananmani7/crypto-democracy-2.0/blob/draft/PART%20VI.adoc)
+
+## LICENSE
+
+This work is licensed under the CC0 1.0 Universal License. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
