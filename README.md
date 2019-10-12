@@ -12,7 +12,7 @@ You can also edit/comment your reviews comments in the [word document](https://w
 
 ## Reading the complete draft
 
-To read this complete draft, see [PDF Format](https://www.dropbox.com/s/fuu8y5dgk8t95c7/Cryptocurrency%20and%20Democracy%202.0%20v0.0.1.pdf?dl=0)
+To read this complete article, see [blog](https://cryptoboot.io/2019/10/cryptocurrency-and-democracy-2-0/)
 
 ## Parts
 
