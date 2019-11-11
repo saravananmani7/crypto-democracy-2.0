@@ -12,7 +12,7 @@ You can also edit/comment your reviews comments in the [word document](https://w
 
 ## Reading the complete draft
 
-To read this complete article, see [blog](https://cryptoboot.io/2019/10/cryptocurrency-and-democracy-2-0/)
+To read this complete article, see [blog](https://cryptoboot.io/blog/)
 
 ## Parts
 
